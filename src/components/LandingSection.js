@@ -18,7 +18,7 @@ const LandingSection = () => (
 
     <VStack spacing={16}>
       <VStack spacing={4}>
-        <Avatar src="https://scontent.faru4-2.fna.fbcdn.net/v/t39.30808-6/391570378_5962440217191905_5235036135826968279_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEUtzQsGqIGNVY0UYetwwQetu7l7uncb9227uXu6dxv3RMYY2futAAwNEGUz6c1goFpR4aZgw88qcP5jDGhQ8qR&_nc_ohc=Etnp2deWIgMAX97_UoH&_nc_ht=scontent.faru4-2.fna&oh=00_AfDAjQIP6t3-OBKKv4hnRk5oBEi78ntHdfn_4r5s4fBVwA&oe=6553FB7A" size="2xl" name="Bruno" />
+        <Avatar src="/img/bf.jpg" size="2xl" name="Bruno" />
         <Heading as="h4" size="md" noOfLines={1}>{greeting}</Heading>
       </VStack>
       <VStack spacing={6}>
